@@ -1,0 +1,164 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArrayListInJava",
+            "request": "launch",
+            "mainClass": "ArrayListInJava",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceInJava",
+            "request": "launch",
+            "mainClass": "InterfaceInJava",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "HierarchialInheritance",
+            "request": "launch",
+            "mainClass": "HierarchialInheritance",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "bank.Bank",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "OPPs",
+            "request": "launch",
+            "mainClass": "OPPs",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "FirstandLast",
+            "request": "launch",
+            "mainClass": "FirstandLast",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "HanoiTower",
+            "request": "launch",
+            "mainClass": "HanoiTower",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion1",
+            "request": "launch",
+            "mainClass": "Recursion1",
+            "vmArgs": "--enable-preview -XX:+ShowCodeDetailsInExceptionMessages",
+            "classPaths": [
+                "C:\\Users\\rohan\\AppData\\Roaming\\Code - Insiders\\User\\workspaceStorage\\1caed19b4f301800786018a9c9616f38\\redhat.java\\jdt_ws\\java-learning_21473e93\\bin"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraysJava",
+            "request": "launch",
+            "mainClass": "ArraysJava",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "ArraysTwoDimention",
+            "request": "launch",
+            "mainClass": "ArraysTwoDimention",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "BitMask",
+            "request": "launch",
+            "mainClass": "BitMask",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "FunctionMethod",
+            "request": "launch",
+            "mainClass": "FunctionMethod",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "Patterns",
+            "request": "launch",
+            "mainClass": "Patterns",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "Recursion1",
+            "request": "launch",
+            "mainClass": "Recursion1",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilders",
+            "request": "launch",
+            "mainClass": "StringBuilders",
+            "projectName": "java-learning_21473e93"
+        },
+        {
+            "type": "java",
+            "name": "StringInJava",
+            "request": "launch",
+            "mainClass": "StringInJava",
+            "projectName": "java-learning_21473e93"
+        }
+    ]
+}
